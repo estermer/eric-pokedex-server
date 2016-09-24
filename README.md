@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+
+# Eric-Pokedex-Server
+My first server based app using Node.JS, Express, Handlebars, and all 4 HTTP routes
+
+*** Credit for setting up some intial node_modules and files goes to Matt Brendzel of General Assembly ***
+*** and for designing this challenge ***
+
+
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
 # Homework : POKÉDEXpress Mini-Project
@@ -142,7 +149,4 @@ The issue body should have:
 
 -   A 'comfort' score on how you feel about the material, from 1 (very
     uncomfortable) to 5 (very comfortable)
-=======
-# eric-pokedex-server
-my first server based app using Node.JS, Express, Handlebars, and all 4 HTTP routes
->>>>>>> 3fd9425a4f5bfd3ba0a6b913bf2156058ecda358
+

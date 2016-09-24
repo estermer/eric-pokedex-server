@@ -4,6 +4,4 @@
 "use strict";
 const app = require('./app.js');
 
-app.listen(1988, function(){
-  console.log("listening on port 1988");
-});
+app.listen('http://ericpokedexserver.herokuapp.com/');

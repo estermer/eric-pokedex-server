@@ -1,0 +1,17 @@
+
+<form action="/pokemon/search" method="POST">
+  <input type="text" name="search" placeholder="Search..">
+  <input type="submit" value="Find">
+</form>
+
+<ul>
+  {{#each pokemonList}}
+  <li>
+    <a href="/pokemon/{{npn}}">
+      <span> #{{npn}} : {{name}} </span>
+    </a>
+  </li>
+  {{/each}}
+</ul>
+
+<a href="/pokemon/new"> Add a Pokemon To the Index </a>

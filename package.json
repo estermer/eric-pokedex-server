@@ -1,0 +1,30 @@
+{
+  "name": "js-express-hw-pokedex",
+  "version": "1.0.0",
+  "description": "Multi-day homework assignment -- make a Pokedex app using Express",
+  "main": "main.js",
+  "scripts": {
+  },
+  "keywords": [
+    "javascript",
+    "express",
+    "handlebars"
+  ],
+  "author": "Matt Brendzel (matt.brendzel@generalassemb.ly)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "handlebars-form-helpers": "^0.1.3",
+    "hbs": "^4.0.1",
+    "method-override": "^2.3.6"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "chai-string": "^1.2.0",
+    "cheerio": "^0.22.0",
+    "mocha": "^3.0.2",
+    "phantom": "^2.1.21"
+  }
+}

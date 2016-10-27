@@ -2,7 +2,7 @@
 # Eric-Pokedex-Server
 My first server based app using Node.JS, Express, Handlebars, and all 4 HTTP routes
 
-![https://ericpokedexserver.herokuapp.com/](Click here to view the functioning APP.)
+![Click here to view the functioning APP.](https://ericpokedexserver.herokuapp.com/)
 
 *** Credit for setting up some intial node_modules and files goes to Matt Brendzel of General Assembly ***
 *** and for designing this challenge ***

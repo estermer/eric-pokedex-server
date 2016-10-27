@@ -12,7 +12,7 @@
     "express",
     "handlebars"
   ],
-  "author": "Matt Brendzel (matt.brendzel@generalassemb.ly)",
+  "author": "initialized by Matt Brendzel (matt.brendzel@generalassemb.ly), Completed by Eric Stermer (eric.stermer@gmail.com)",
   "license": "GPL-3.0",
   "dependencies": {
     "body-parser": "^1.15.2",
@@ -28,5 +28,8 @@
     "cheerio": "^0.22.0",
     "mocha": "^3.0.2",
     "phantom": "^2.1.21"
+  },
+  "engines": {
+    "node": "6.3.1"
   }
 }

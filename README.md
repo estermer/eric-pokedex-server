@@ -2,6 +2,8 @@
 # Eric-Pokedex-Server
 My first server based app using Node.JS, Express, Handlebars, and all 4 HTTP routes
 
+![https://ericpokedexserver.herokuapp.com/](Click here to view the functioning APP.)
+
 *** Credit for setting up some intial node_modules and files goes to Matt Brendzel of General Assembly ***
 *** and for designing this challenge ***
 
@@ -38,7 +40,7 @@ My first server based app using Node.JS, Express, Handlebars, and all 4 HTTP rou
   > expecting you to learn about on your own -- so don't be discouraged
   > if you're not sure how to do something.
 
-  As you work through this assignment, please make commits regularly -- few things are as 
+  As you work through this assignment, please make commits regularly -- few things are as
   heartbreaking as losing your work.
 
 ### Feature Specs
@@ -130,7 +132,7 @@ My first server based app using Node.JS, Express, Handlebars, and all 4 HTTP rou
 ### Reach Targets
 
 1.  Modify the app so that the 'show' view also shows an image of the given
-    Pokemon (a whole bunch of images are available at 
+    Pokemon (a whole bunch of images are available at
     `http://img.pokemondb.net/artwork/(Pokémon's name).jpg`).
     Feel free to modify the data store as necessary in order to make that work.
 
@@ -149,4 +151,3 @@ The issue body should have:
 
 -   A 'comfort' score on how you feel about the material, from 1 (very
     uncomfortable) to 5 (very comfortable)
-
